@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://th.bing.com/th/id/OIP.gZCh3ODa9uVscF26bgfSfwHaFj?w=234&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Image" height="400" width="400">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="Image" height="300" width="900">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkumar5783&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkumar5783" /> </p>
 
